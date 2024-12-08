@@ -1,6 +1,3 @@
-Here’s a sample **`README.md`** file for your project:
-
----
 
 # **Pothole Reporting System**
 
@@ -31,7 +28,7 @@ A React Native application with an Expo-managed workflow for reporting and manag
 ### **Frontend (React Native)**
 - **Framework**: React Native with Expo.
 - **UI Libraries**: 
-  - React Native Paper
+  - React Native UI Screens
   - React Navigation
 - **API Communication**: Axios.
 
@@ -116,7 +113,9 @@ PotholeReportingSystem/
 
 3. Start the app:
    ```bash
-   npm start
+   npm start 
+   or
+   npx expo start
    ```
 
 4. Scan the QR code displayed in the terminal or browser to run the app on your mobile device using the Expo Go app.
@@ -154,6 +153,8 @@ PotholeReportingSystem/
 
 ## **Screenshots**
 User and Admin Folder Structures
+
+
 <img width="449" alt="image" src="https://github.com/user-attachments/assets/69a9e51b-8ee4-409c-8cfa-f7d91d6af7fe">
 <img width="449" alt="image" src="https://github.com/user-attachments/assets/7b6d67fa-02b7-4693-b48e-0c3e84cdcbce">
 
