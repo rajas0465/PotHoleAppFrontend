@@ -83,6 +83,7 @@ PotholeReportingSystem/
 2. Install dependencies:
    ```bash
    npm install
+   npm install -g expo-cli
    ```
 
 3. Initialize the SQLite database:
